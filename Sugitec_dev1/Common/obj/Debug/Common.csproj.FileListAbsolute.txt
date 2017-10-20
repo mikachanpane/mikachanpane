@@ -11,3 +11,16 @@ C:\Users\muramatsu\Documents\murmatsu_local\01Office_solution\Team_dev1\Sugitec_
 C:\Users\muramatsu\Documents\murmatsu_local\01Office_solution\Team_dev1\Sugitec_dev1\Common\obj\Debug\Sugitec.Common.ucNumTextBox.resources
 C:\Users\muramatsu\Documents\murmatsu_local\01Office_solution\Team_dev1\Sugitec_dev1\Common\obj\Debug\Sugitec.Common.ucNumUpDown.resources
 C:\Users\muramatsu\Documents\murmatsu_local\01Office_solution\Team_dev1\Sugitec_dev1\Common\obj\Debug\Sugitec.Common.ucYMTextbox.resources
+C:\Users\p-user\Documents\GitHub\mikachanpane\Sugitec_dev1\Common\bin\Debug\Common.dll.config
+C:\Users\p-user\Documents\GitHub\mikachanpane\Sugitec_dev1\Common\bin\Debug\Common.dll
+C:\Users\p-user\Documents\GitHub\mikachanpane\Sugitec_dev1\Common\bin\Debug\Common.pdb
+C:\Users\p-user\Documents\GitHub\mikachanpane\Sugitec_dev1\Common\obj\Debug\Sugitec.Common.frmBase.resources
+C:\Users\p-user\Documents\GitHub\mikachanpane\Sugitec_dev1\Common\obj\Debug\Sugitec.Common.frmTenKey.resources
+C:\Users\p-user\Documents\GitHub\mikachanpane\Sugitec_dev1\Common\obj\Debug\Sugitec.Common.frmYm.resources
+C:\Users\p-user\Documents\GitHub\mikachanpane\Sugitec_dev1\Common\obj\Debug\Sugitec.Common.Properties.Resources.resources
+C:\Users\p-user\Documents\GitHub\mikachanpane\Sugitec_dev1\Common\obj\Debug\Sugitec.Common.ucNumTextBox.resources
+C:\Users\p-user\Documents\GitHub\mikachanpane\Sugitec_dev1\Common\obj\Debug\Sugitec.Common.ucYMTextbox.resources
+C:\Users\p-user\Documents\GitHub\mikachanpane\Sugitec_dev1\Common\obj\Debug\Sugitec.Common.ucNumUpDown.resources
+C:\Users\p-user\Documents\GitHub\mikachanpane\Sugitec_dev1\Common\obj\Debug\Common.csproj.GenerateResource.Cache
+C:\Users\p-user\Documents\GitHub\mikachanpane\Sugitec_dev1\Common\obj\Debug\Common.dll
+C:\Users\p-user\Documents\GitHub\mikachanpane\Sugitec_dev1\Common\obj\Debug\Common.pdb

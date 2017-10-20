@@ -264,47 +264,47 @@ namespace Sugitec.Logics
 			base.ExecuteAction(sqlList);
 		}
 
-		/// <summary>
-		/// テスト用メソッド
-		/// </summary>
-		/// <param name="switch_on">1：START_YMD,'@@@@/@@/@@'2：TAX_RATE</param>
-		/// <returns></returns>
-		public DataTable TestSelect(double switch_on)
-		{
-			try
-			{
-				//SQL構築
-				StringBuilder Sql = new StringBuilder();
+		///// <summary>
+		///// テスト用メソッド
+		///// </summary>
+		///// <param name="switch_on">1：START_YMD,'@@@@/@@/@@'2：TAX_RATE</param>
+		///// <returns></returns>
+		//public DataTable TestSelect(double switch_on)
+		//{
+		//	try
+		//	{
+		//		//SQL構築
+		//		StringBuilder Sql = new StringBuilder();
 
-				switch (switch_on)
-				{
-					case 1:
-						Sql.Append("Select CDATE(FORMAT(START_YMD,'@@@@/@@/@@')) AS A" +
-							"       FROM   T_ORDER" +
-							"       WHERE  START_YMD <> ''");
-						break;
+		//		switch (switch_on)
+		//		{
+		//			case 1:
+		//				Sql.Append("Select CDATE(FORMAT(START_YMD,'@@@@/@@/@@')) AS A" +
+		//					"       FROM   T_ORDER" +
+		//					"       WHERE  START_YMD <> ''");
+		//				break;
 
-					case 1.5:
-						Sql.Append(" SELECT CONVERT(DATETIME,START_YMD) AS A");
-						Sql.Append(" FROM   T_ORDER");
-						Sql.Append(" WHERE  START_YMD <> '' ");
-						break;
+		//			case 1.5:
+		//				Sql.Append(" SELECT CONVERT(DATETIME,START_YMD) AS A");
+		//				Sql.Append(" FROM   T_ORDER");
+		//				Sql.Append(" WHERE  START_YMD <> '' ");
+		//				break;
 
-					case 2 :
-						Sql.Append("SELECT   " +
-										"  CODE" +
-										", CONVERT(VARCHAR, TAX_RATE) + '%' AS 税区分" +
-									"FROM    M_TAX");
-						break;
-				}
+		//			case 2 :
+		//				Sql.Append("SELECT   " +
+		//								"  CODE" +
+		//								", CONVERT(VARCHAR, TAX_RATE) + '%' AS 税区分" +
+		//							"FROM    M_TAX");
+		//				break;
+		//		}
 
-				//選択クエリ実行
-				return base.ExecuteSelect(Sql.ToString());
-			}
-			catch 
-			{
-				throw;
-			}
-		}
+		//		//選択クエリ実行
+		//		return base.ExecuteSelect(Sql.ToString());
+		//	}
+		//	catch 
+		//	{
+		//		throw;
+		//	}
+		//}
 	}
 }

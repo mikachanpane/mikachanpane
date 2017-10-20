@@ -119,7 +119,7 @@ namespace Sugitec
 
 				//選択行の計上日セルに値を入力
 				DateTime date = (DateTime)row.Cells["dgv_ym"].Value.ToDateEx();
-				row.Cells["dgv_ym"]. = date.ToString("yyyy/MM/dd");
+				row.Cells["dgv_ym"].Value = date.ToString("yyyy/MM/dd");
 
 				///日付型に変換可能な8桁入力されている時のみ検証
 				///if (row.Cells["dgv_ym"].Value.ToDateEx().ToStringEx("yyyyMMdd").Length >= 8)
