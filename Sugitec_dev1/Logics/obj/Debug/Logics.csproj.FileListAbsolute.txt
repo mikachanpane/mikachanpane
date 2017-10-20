@@ -1,0 +1,15 @@
+C:\Users\muramatsu\Documents\murmatsu_local\01Office_solution\Team_dev1\Sugitec_dev1\Logics\bin\Debug\Logics.dll.config
+C:\Users\muramatsu\Documents\murmatsu_local\01Office_solution\Team_dev1\Sugitec_dev1\Logics\bin\Debug\Logics.dll
+C:\Users\muramatsu\Documents\murmatsu_local\01Office_solution\Team_dev1\Sugitec_dev1\Logics\bin\Debug\Logics.pdb
+C:\Users\muramatsu\Documents\murmatsu_local\01Office_solution\Team_dev1\Sugitec_dev1\Logics\bin\Debug\ClosedXML.dll
+C:\Users\muramatsu\Documents\murmatsu_local\01Office_solution\Team_dev1\Sugitec_dev1\Logics\bin\Debug\Common.dll
+C:\Users\muramatsu\Documents\murmatsu_local\01Office_solution\Team_dev1\Sugitec_dev1\Logics\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\muramatsu\Documents\murmatsu_local\01Office_solution\Team_dev1\Sugitec_dev1\Logics\bin\Debug\Common.pdb
+C:\Users\muramatsu\Documents\murmatsu_local\01Office_solution\Team_dev1\Sugitec_dev1\Logics\bin\Debug\Common.dll.config
+C:\Users\muramatsu\Documents\murmatsu_local\01Office_solution\Team_dev1\Sugitec_dev1\Logics\bin\Debug\ClosedXML.pdb
+C:\Users\muramatsu\Documents\murmatsu_local\01Office_solution\Team_dev1\Sugitec_dev1\Logics\bin\Debug\ClosedXML.xml
+C:\Users\muramatsu\Documents\murmatsu_local\01Office_solution\Team_dev1\Sugitec_dev1\Logics\obj\Debug\Logics.csprojResolveAssemblyReference.cache
+C:\Users\muramatsu\Documents\murmatsu_local\01Office_solution\Team_dev1\Sugitec_dev1\Logics\obj\Debug\Sugitec.Logics.Properties.Resources.resources
+C:\Users\muramatsu\Documents\murmatsu_local\01Office_solution\Team_dev1\Sugitec_dev1\Logics\obj\Debug\Logics.csproj.GenerateResource.Cache
+C:\Users\muramatsu\Documents\murmatsu_local\01Office_solution\Team_dev1\Sugitec_dev1\Logics\obj\Debug\Logics.dll
+C:\Users\muramatsu\Documents\murmatsu_local\01Office_solution\Team_dev1\Sugitec_dev1\Logics\obj\Debug\Logics.pdb
